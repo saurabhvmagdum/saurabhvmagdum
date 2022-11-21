@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning at *Masai School*
 - 💬 Ask me about *Java*
 - 👨‍💻 This is [My Portfolio](https://saurabhvmagdum.github.io/)
--  📄 This is [My Resume](https://drive.google.com/file/d/1hwuQk1EG8TBjwY53k1CCyRK9-KWVxTJP/view?usp=sharing)
+-  📄 This is [My Resume](https://1drv.ms/b/s!Ap_bJcqjz7NJlAtbUy3ZEKzeLkva?e=lX6ocu)
 - 📫 How to reach me: ...*saurabhvmagdum@gmail.com*
 
 
