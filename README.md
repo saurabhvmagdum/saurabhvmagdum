@@ -9,6 +9,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Java+BackEnd+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+<p>
+  Hello, I am Saurabh Magdum, and I am a Java Backend Developer.
+  My interest in technology is what drives me to learn more about it. 
+  Currently, I am a student at Masai school where I am learning web development,
+  During the course, I have developed many projects and learned to solve problems using Data Structure and Algorithms.
+  I am eager to work on real projects where I can gain experience, enhance my skills and provide value to my workplace.
+ </p>
 
                                                        
 - 🔭 I’m currently working on *MySkill😄*
