@@ -65,8 +65,7 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=saurabhvmagdum&theme=tokyonight&bg_color=0D1117">
 
 
-<!-- Contribution Graph -->
-<img src ="https://activity-graph.herokuapp.com/graph?username=saurabhvmagdum&custom_title=Saurabh%20Magdum%27s%20Contribution%20Graph&hide_border=true&theme=react-light">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhvmagdum" alt="saurabhvmagdum" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
