@@ -66,7 +66,7 @@
 
 
 <!-- Contribution Graph -->
-<img src ="https://activity-graph.herokuapp.com/graph?username=saurabhvmagdum&custom_title=Chandan%20Sharma%27s%20Contribution%20Graph&hide_border=true&theme=react-light">
+<img src ="https://activity-graph.herokuapp.com/graph?username=saurabhvmagdum&custom_title=Saurabh%20Magdum%27s%20Contribution%20Graph&hide_border=true&theme=react-light">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
