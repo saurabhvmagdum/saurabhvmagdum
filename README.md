@@ -51,6 +51,23 @@
 </div>  
 
 
+## My GitHub Stats
+
+<!--  GitHub Stats   -->
+<img src = "https://github-readme-stats.vercel.app/api?username=saurabhvmagdum&show_icons=true&theme=react&hide_border=true&bg_color=0F1000">
+
+
+
+<!--  Most Used Languages    -->
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhvmagdum&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+
+
+<!--  Streak Stats  -->
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=saurabhvmagdum&theme=tokyonight&bg_color=0D1117">
+
+
+<!-- Contribution Graph -->
+<img src ="https://activity-graph.herokuapp.com/graph?username=saurabhvmagdum&custom_title=Avinash%20Kumar%27s%20Contribution%20Graph&hide_border=true&theme=react-light">
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
