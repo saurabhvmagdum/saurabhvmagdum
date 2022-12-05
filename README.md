@@ -66,10 +66,6 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=saurabhvmagdum&theme=tokyonight&bg_color=0D1117">
 
 
-<!-- Contribution Graph -->
-<img src ="https://activity-graph.herokuapp.com/graph?username=saurabhvmagdum&custom_title=Avinash%20Kumar%27s%20Contribution%20Graph&hide_border=true&theme=react-light">
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
