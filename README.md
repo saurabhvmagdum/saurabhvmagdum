@@ -12,14 +12,11 @@
 <p>
   Hello, I am Saurabh Magdum, and I am a Java Backend Developer.
   My interest in technology is what drives me to learn more about it. 
-  Currently, I am a student at Masai school where I am learning web development,
-  During the course, I have developed many projects and learned to solve problems using Data Structure and Algorithms.
   I am eager to work on real projects where I can gain experience, enhance my skills and provide value to my workplace.
  </p>
 
                                                        
 - 🔭 I’m currently working on *MySkill😄*
-- 🌱 I’m currently learning at *Masai School*
 - 💬 Ask me about *Java*
 - 👨‍💻 This is [My Portfolio](https://saurabhvmagdum.github.io/)
 -  📄 This is [My Resume](https://1drv.ms/b/s!Ap_bJcqjz7NJlAtbUy3ZEKzeLkva?e=lX6ocu)
